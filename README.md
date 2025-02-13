@@ -1,6 +1,15 @@
-# 🎨 My Grahpics Design Portfolio (2021 - Present)  
+# 🎨 My Graphic Design & Art Portfolio (2021 - Present)  
 
-Welcome to my portfolio! This repository showcases my work in **graphic design** from 2021 to the present. Each project highlights my passion for uniqueness, detail and artistic approach.
+Welcome to my portfolio! This repository showcases my graphic design and digital art projects created from 2021 to the present. I specialize in **branding, illustrations, UI/UX design, and digital artwork**. Whether you're here to explore my work, get inspired, or collaborate, I'm excited to share my creative journey with you.  
+
+---
+
+## 🖌️ About Me  
+I am a passionate designer with a keen eye for detail, composition, and visual storytelling. Over the years, I've worked on various projects, including:  
+- **Brand Identity Design** – Logos, business cards, and full branding kits.  
+- **Illustrations & Digital Art** – Concept art, character designs, and posters.  
+- **UI/UX & Web Design** – Modern, user-friendly interfaces for apps and websites.  
+- **Motion Graphics** – Animated content and visual effects.  
 
 Every design tells a story, and I strive to make each project meaningful, engaging, and impactful! ✨
 
@@ -10,6 +19,9 @@ Every design tells a story, and I strive to make each project meaningful, engagi
 🎨 **Adobe Illustrator** – Vector graphics & branding  
 🖼 **Adobe Photoshop** – Photo manipulation & layout design  
 📜 **Canva** – Quick layouts & templates
+📱 **Figma/XD** – UI/UX design for web & mobile apps  
+🖥 **Procreate** – Digital illustrations  
+🎬 **After Effects/DaVinci Resolve** – Motion design & video editing  
 
 ---
 
