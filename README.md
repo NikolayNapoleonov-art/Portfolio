@@ -1,4 +1,4 @@
-# 🎨 My Design & Art Portfolio (2021 - Present)  
+# 🎨 My Grahpics Design Portfolio (2021 - Present)  
 
 Welcome to my portfolio! This repository showcases my work in **graphic design** from 2021 to the present. Each project highlights my passion for uniqueness, detail and artistic approach.
 
