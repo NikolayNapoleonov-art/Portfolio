@@ -1,6 +1,6 @@
-# 🎨 My Graphic Design & Art Portfolio (2021 - Present)  
+# 🎨 Welcome to my Graphics Design / Art portfolio!
 
-Welcome to my portfolio! This repository showcases my graphic design and digital art projects created from 2021 to the present. I specialize in **branding, illustrations, UI/UX design, and digital artwork**. Whether you're here to explore my work, get inspired, or collaborate, I'm excited to share my creative journey with you.  
+This repository showcases my graphic design and digital art projects created from 2021 to the present. I specialize in **branding, illustrations, UI/UX design, and digital artwork**. Whether you're here to explore my work, get inspired, or collaborate, I'm excited to share my creative journey with you.  
 
 ---
 
