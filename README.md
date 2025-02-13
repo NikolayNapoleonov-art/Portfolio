@@ -18,7 +18,7 @@ Every design tells a story, and I strive to make each project meaningful, engagi
 ## 🔧 Tools I Use  
 🎨 **Adobe Illustrator** – Vector graphics & branding  
 🖼 **Adobe Photoshop** – Photo manipulation & layout design  
-📜 **Canva** – Quick layouts & templates
+📜 **Canva** – Quick layouts & templates  
 📱 **Figma/XD** – UI/UX design for web & mobile apps  
 🖥 **Procreate** – Digital illustrations  
 🎬 **After Effects/DaVinci Resolve** – Motion design & video editing  
